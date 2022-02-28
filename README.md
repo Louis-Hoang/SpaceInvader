@@ -1,2 +1,2 @@
 # SpaceInvader
-Project for Intro to Computer Science course 
+A project for Intro to Computer Science course 
